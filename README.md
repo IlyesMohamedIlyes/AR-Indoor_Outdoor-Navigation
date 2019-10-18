@@ -13,9 +13,9 @@ The scripts wrote with C# are not quite commented. Will do my best to perfom it.
 
 
 ## TODO:
-        - [ ] Enhance indoor localisation with [IndoorAtlas SDK] (https://www.indooratlas.com/).
-        - [ ] Verify deplacement calculation, on [StepCounter.cs] (Assets/Scripts/StepCounter.cs).
-        - [ ] Eliminate useless direction calculations when outdoor navigation.
+- [ ] Enhance indoor localisation with [IndoorAtlas SDK] (https://www.indooratlas.com/).
+- [ ] Verify deplacement calculation, on [StepCounter.cs] (Assets/Scripts/StepCounter.cs).
+- [ ] Eliminate useless direction calculations when outdoor navigation.
         
 ## Screenshots
 <img width="250" src="Screenshots/Screenshot_list-of-rooms-in-CSdepartment.png">
@@ -23,9 +23,9 @@ The scripts wrote with C# are not quite commented. Will do my best to perfom it.
 
         
 ## Tools & languages:
-        * Main language **C#**.
-        * [Unity3d] (https://unity.com).
-        * [MapBox] (https://www.mapbox.com) v1.3 : Its Unity3d SDK gived the chance to fulfil a complete mission in visualising maps, getting directions.
-        * [SQLite] (https://sqlite.org) : for the database creation. This database contains GPS coordinates of professors/classes/checkpoints.
-        * [Vuforia] (https://developer.vuforia.com) : Its Unity3d SDK helped in recognizing checkpoints patterns.
+* Main language **C#**.
+* [Unity3d] (https://unity.com).
+* [MapBox] (https://www.mapbox.com) v1.3 : Its Unity3d SDK gived the chance to fulfil a complete mission in visualising maps, getting directions.
+* [SQLite] (https://sqlite.org) : for the database creation. This database contains GPS coordinates of professors/classes/checkpoints.
+* [Vuforia] (https://developer.vuforia.com) : Its Unity3d SDK helped in recognizing checkpoints patterns.
 
