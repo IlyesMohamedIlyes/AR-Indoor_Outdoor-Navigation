@@ -12,7 +12,7 @@ The scripts wrote with C# are not quite commented. Will do my best to perfom it.
 **DO NOT** migrate to MapBox SDK version 1.4 in master branch, the new one has a lot of primary changes. It will take some time to pass to new version.
 
 
-## TODO
+## TODO:
         - [ ] Enhance indoor localisation with [IndoorAtlas SDK] (https://www.indooratlas.com/).
         - [ ] Verify deplacement calculation, on [StepCounter.cs] (Assets/Scripts/StepCounter.cs).
         - [ ] Eliminate useless direction calculations when outdoor navigation.
@@ -22,7 +22,7 @@ The scripts wrote with C# are not quite commented. Will do my best to perfom it.
 
 
         
-## Tools & languages
+## Tools & languages:
         * Main language **C#**.
         * [Unity3d] (https://unity.com).
         * [MapBox] (https://www.mapbox.com) v1.3 : Its Unity3d SDK gived the chance to fulfil a complete mission in visualising maps, getting directions.
