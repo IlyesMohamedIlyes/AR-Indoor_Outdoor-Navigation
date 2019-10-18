@@ -19,9 +19,7 @@ The scripts wrote with C# are not quite commented. Will do my best to perfom it.
         
 ## Screenshots
 * <b>Choose where you want to go<b>
-<img width="250" src="Screenshots/Screenshot_list-of-rooms-in-CSdepartment.png">
-
-
+![Alt text](/Screenshots/Screenshot_list-of-rooms-in-CSdepartment.png?raw=true "Optional Title")
         
 ## Tools & languages
 * Main language **C#** ; 
